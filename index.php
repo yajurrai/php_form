@@ -11,7 +11,7 @@
   <navbar class="navbar navbar-default navbar-dark bg-dark">
     <div class="container">
       <div class="navbar-header">
-        <a href="#"class="navbar-brand">PHP FORM</a>
+        <a href="#"class="navbar-brand">Yajur's Contact Form</a>
       </div>
     </div>
   </navbar>
